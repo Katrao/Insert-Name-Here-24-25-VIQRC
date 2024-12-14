@@ -37,3 +37,5 @@ AutonV2.0
 AutonV2.1
 AutonV2.2
 AutonV2.2Cut
+
+Note - All files ending in .crswap are for formatting with CodeIQ Blocks.
